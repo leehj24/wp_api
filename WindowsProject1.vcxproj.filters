@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowsProject1.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="bingo.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WindowsProject1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WindowsProject1.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="WindowsProject1.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\바탕 화면\jinro.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\jinro.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\바탕 화면\jinro1.png">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\바탕 화면\bird.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Downloads\bit.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\..\..\OneDrive\바탕 화면\fresh.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="JURU_OPEN.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="ISLAND.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="plb.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\plane.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="plane.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k5.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k9.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k10.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k11.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k12.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k13.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k14.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k15.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="k7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="icon1.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="man1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="man2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="f10.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="f11.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="f6.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="f7.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="f8.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="f9.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="dokey.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="opening.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="shouting_clap1.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="shouting_clap2.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="shouting_clap3.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="bgmmain.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="fun.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="warriors.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+    <Media Include="worldmap.wav">
+      <Filter>리소스 파일</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
